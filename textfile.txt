@@ -1,0 +1,5 @@
+python
+powerbi
+sql
+
+A paradigm is a typical example, a model, or a broad framework of assumptions and theories that shape how we perceive reality and approach problem-solving. It acts as a mental lens through which a person, society, or scientific community understands a
